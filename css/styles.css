@@ -1,0 +1,147 @@
+/* Color Palette
+# - #F4F1DE  
+# - #E07A5F  
+# - #3D405B  
+# - #81B29A  
+# - #F2CC8F  
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  color: #3D405B;
+}
+
+/* Header 
+------------------------------------*/
+.site-header {
+  background-color: #F4F1DE;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 90px;
+  font-weight: 600;
+  font-style: oblique;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 55px;
+  font-weight: 300;
+  font-style: oblique;
+  margin-bottom: 15px;
+}
+
+.intro-text {
+  background-color: #F2CC8F;
+  padding: 15px;
+}
+
+/* Work Section 
+------------------------------------*/
+.work-section {
+  background-color: white;
+  padding: 20px;
+}
+
+.work-section h2 {
+  font-size: 60px;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.work-section h3 {
+  font-size: 38px;
+  font-weight: 400;
+  font-style: oblique;
+}
+
+/* Projects Section
+------------------------------------*/
+.projects-section {
+  background-color: #81B29A;
+  padding: 20px;
+}
+
+.projects-section h2 {
+  font-size: 60px;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.projects-section h3 {
+  font-size: 38px;
+  font-weight: 400;
+  font-style: oblique;
+}
+
+/* Volunteer Section
+------------------------------------*/
+.volunteer-section {
+  background-color: white;
+  padding: 20px;
+}
+
+.volunteer-section h2 {
+  font-size: 60px;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.volunteer-section h3 {
+  font-size: 38px;
+  font-weight: 300;
+  font-style: oblique;
+}
+
+/* Education
+------------------------------------*/
+.education-section {
+  background-color: #E07A5F;
+  padding: 20px;
+}
+
+.education-section h2 {
+  font-size: 60px;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.education-section h3 {
+  font-size: 38px;
+  font-weight: 300;
+  font-style: oblique;
+}
+
+/* Footer
+------------------------------------*/
+.site-footer {
+  background-color: #3D405B;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.site-footer h2 {
+  font-size: 35px;
+  font-weight: 700;
+  font-style: oblique;
+}
+
+.contact-link {
+  color: #F2CC8F;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contact-link:hover {
+  text-decoration: underline;
+}
